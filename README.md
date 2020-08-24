@@ -3,7 +3,7 @@ Proof of concept website about my Taekwondo hobby with savable quotes and FAQ it
 
 --------------------
 
-Website shows information about taekwondo, and has pages dedicated to common questions and quotes about martial arts/taekwondo, which can be saved to the saved items page by clicking on the hearts. The website was build with the help of bootstrap.
+Website shows information about taekwondo, and has pages dedicated to common questions and quotes about martial arts/taekwondo, which can be saved to the saved items page by clicking on the hearts. The website was built with the help of bootstrap.
 
 --------------------
 
